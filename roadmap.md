@@ -1,19 +1,21 @@
 # ROADMAP
 
-### Q3 2022
+### Q2 2023
 
 * [ ] Beta Testing
 * [ ] Project Launch
 * [ ] AMM - Token Swap
+
+### Q3 2023
+
 * [ ] Yield Farms
-* [ ] Single BARK Staking
+* [ ] Single KERMIT Staking
 
-### Q4 2022
+### Q4 2023
 
-* [ ] IDO
-* [ ] BARK WORLD
-* [ ] NFT Minting
-* [ ] NFT Marketplace
+* [ ] KERMIT LAUNCHPAD
+* [ ] FROG WORLD
+* [ ] NFT MintinG
 * [ ] NFT Staking
 * [ ] CEX LISTING
 
