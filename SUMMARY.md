@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🦴 BarkSwap Introduction](README.md)
+* [🦴 KERMIT Introduction](README.md)
 
 ## 🚀 Get Started
 

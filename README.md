@@ -1,26 +1,26 @@
-# 🦴 BarkSwap Introduction
+# 🦴 KERMIT Introduction
 
-<figure><img src=".gitbook/assets/Doge Bark abangg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/66019.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**WHAT IS DOGEBARK?**
+**WHAT IS KERMIT?**
 {% endhint %}
 
-> DogeBark is, Decentralized Exchanges (DEX), automated market-making (AMM), providing liquidity and enabling peer-to-peer transactions on the Dogechain Network. \
+> Kermit is a community-driven multi-chain token. First we launch on PulseChain. We will launch on Arbitrum, Ethereum, and zkEVM soon ! \
 > \
-> The goal is to provide a comprehensive and convenient, one-stop platform for the cryptocurrency community. DogeBark features supporting the DeFi and Web3 spaces including crypto swaps, staking, and yield farming, and serves as a launch platform for new and exciting projects built on the Dogechain Network.
+> The goal is to provide a comprehensive and convenient, one-stop platform for the cryptocurrency community. KERMIT features supporting the DeFi and Web3 spaces including crypto swaps, staking, and yield farming, and serves as a launch platform for new and exciting projects built on the EVM.
 
 {% hint style="info" %}
-**WHY MUST USING DOGEBARK ?**
+**WHY MUST HOLD KERMIT ?**
 {% endhint %}
 
 > _**As A Trader or Investor**_
 >
-> You will find potential projects on DogeBark early and accompany them to grow up to massive predator through trading, farming, etc. And we have the lowest trading fees. How awesome is that? You save fees when you trade on us compared to other DEXes!
+> You will find potential projects on KERMIT early and accompany them to grow up to massive predator through trading, farming, etc. And we have the lowest trading fees. How awesome is that? You save fees when you trade on us compared to other DEXes!
 
 > _**As A Project or Token Developer**_
 >
-> You will find the best support on DogeBark, including grants/launchpad fundraise, arbitrage support, marketing support and your projects can reach out to us to establish pools or farms or for whitelisting on our swap.
+> You will find the best support on KERMIT , including grants/launchpad fundraise, arbitrage support, marketing support and your projects can reach out to us to establish pools or farms or for whitelisting on our swap.
 
 ## Getting Started
 
@@ -40,12 +40,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [get-wdoge-on-dogechain.md](get-started/get-wdoge-on-dogechain.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -56,20 +56,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
